@@ -22,4 +22,5 @@ All user input will automatically be saved in a folder "/data", in these files:
 - exit_data.csv
 
 ### Watch the video demonstration here:
-👉
+👉https://youtu.be/jBWu_2n_Bew
+
