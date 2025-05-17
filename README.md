@@ -1,6 +1,6 @@
 # Welcome to Our Program, Usability Testing Tool!
 
-This is a simple Streamlit app that automates usability testing. It helps collect user consent, demographics, task performance, and exit feedback, and then displays a report with results. 
+This is a simple Streamlit app that automates usability testing, an important part of human-computer interaction (HCI).This tool will help in collecting user consent and demographic forms, present tasks for users to complete, collect data on task performance, gather user feedback, and create an end report covering all of the data collected. 
 
 Usability made simple. 
 
@@ -13,6 +13,13 @@ Usability made simple.
 - ✅ **Observer notes and task success tracking**
 - ✅ **Exit questionnaire with sliders and comments**
 - ✅ **Aggregated report view of all collected data**
-- 
+
+### Data Output:
+All user input will automatically be saved in a folder "/data", in these files:
+- consent_data.csv
+- demographic_data.csv
+- task_data.csv
+- exit_data.csv
+
 ### Watch the video demonstration here:
 👉
