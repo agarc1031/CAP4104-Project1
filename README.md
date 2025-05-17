@@ -48,4 +48,6 @@ All user input will automatically be saved in a folder "/data", in these files:
 - exit_data.csv
 
 ### Watch the video demonstration here:
+![youtube](https://youtu.be/gxm-3FDdGpo)
+
 👉(https://youtu.be/gxm-3FDdGpo)
