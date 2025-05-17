@@ -1,4 +1,4 @@
-# Welcome to Our Program, Usability Testing Tool!
+# Welcome to Our App, Usability Testing Tool!
 
 This is a simple Streamlit app that automates usability testing, an important part of human-computer interaction (HCI).This tool will help in collecting user consent and demographic forms, present tasks for users to complete, collect data on task performance, gather user feedback, and create an end report covering all of the data collected. 
 
