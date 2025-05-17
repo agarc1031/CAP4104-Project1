@@ -20,15 +20,18 @@ Usability made simple.
   2. Download the most recent version of Python
   3. Check the box that states "Add Python to PATH"
   4. Click Install and finish the setup
+
 ✅Step 2: Install Tools
 - This will install the necessary tools to run the app. 
   1. Open cmd or Command Prompt for Windows, Terminal for Mac
   2. Type: "pip install streamlit pandas" and press Enter.
+
 ✅Step 3: Save the Files
 Make a new folder on your computer and place the necessary files inside:
 - usability_app.py → main Python file
 - README.md → this is optional
 - The app will automatically create a data/ folder after it is ran
+
 ✅Step 4: Run the App!
   1. Open Command Prompt or Terminal
   2. Navitage to the folder where your file is located. User your actual path on where you have the file saved.
